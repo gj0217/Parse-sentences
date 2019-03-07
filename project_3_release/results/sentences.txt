@@ -1,0 +1,1 @@
+ (ROOT (S (NP (Det the) (Noun (Adj pickled) (Noun staff))) (VP (Verb wanted) (NP (Det the) (Noun president)))) !)

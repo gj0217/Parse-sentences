@@ -1,0 +1,1 @@
+ (ROOT (S (NP (Det every) (Noun floor)) (VP (Verb pickled) (NP (Det the) (Noun floor)))) .)
